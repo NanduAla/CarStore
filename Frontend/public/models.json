@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "from": "USA",
+        "brand": "Tesla",
+        "matter": "Innovative electric cars with advanced autonomous driving features.",
+        "image": "https://i.pinimg.com/564x/1c/80/12/1c8012a0e8f11a9a1ac8bd3574d8b3c0.jpg"
+    },
+    {
+        "id": 2,
+        "from": "Japan",
+        "brand": "Toyota",
+        "matter": "Reliable and fuel-efficient vehicles with a strong hybrid lineup.",
+        "image": "https://i.pinimg.com/736x/50/35/62/503562467d3a0773f640380840ddd289.jpg"
+    },
+    {
+        "id": 3,
+        "from": "USA",
+        "brand": "Ford",
+        "matter": "American automaker known for its trucks and muscle cars.",
+        "image": "https://i.pinimg.com/564x/4a/4c/ca/4a4ccafc35d73cead00008e0ffb38684.jpg"
+    },
+    {
+        "id": 4,
+        "from": "Germany",
+        "brand": "BMW",
+        "matter": "Luxury vehicles with a focus on performance and driving dynamics.",
+        "image": "https://i.pinimg.com/564x/4b/d6/4d/4bd64d3051695ec11d296f272c12eff1.jpg"
+    },
+    {
+        "id": 5,
+        "from": "Germany",
+        "brand": "Mercedes-Benz",
+        "matter": "Prestigious brand offering luxury sedans, SUVs, and sports cars.",
+        "image": "https://i.pinimg.com/564x/ce/a8/ce/cea8ce977fdfef32dcc17d58e22ae232.jpg"
+    },
+    {
+        "id": 6,
+        "from": "Germany",
+        "brand": "Audi",
+        "matter": "German engineering with a focus on technology and performance.",
+        "image": "https://i.pinimg.com/564x/af/92/18/af92182911955d13773e2e4229175166.jpg"
+    },
+    {
+        "id": 7,
+        "from": "USA",
+        "brand": "Chevrolet",
+        "matter": "Diverse lineup including trucks, SUVs, and electric vehicles.",
+        "image": "https://1000logos.net/wp-content/uploads/2019/12/Chevrolet-logo.png"
+    },
+    {
+        "id": 8,
+        "from": "Japan",
+        "brand": "Honda",
+        "matter": "Reliable, fuel-efficient vehicles with strong safety features.",
+        "image": "https://i.pinimg.com/564x/85/49/7d/85497d2d48b7bbbbaf218123f829ab2d.jpg"
+    },
+    {
+        "id": 9,
+        "from": "Japan",
+        "brand": "Nissan",
+        "matter": "Innovative technology and a wide range of vehicle options.",
+        "image": "https://i.pinimg.com/564x/59/a5/26/59a526a3f6146549714f829936da41b4.jpg"
+    },
+    {
+        "id": 10,
+        "from": "Germany",
+        "brand": "Volkswagen",
+        "matter": "German automaker known for quality and a diverse vehicle lineup.",
+        "image": "https://i.pinimg.com/564x/f3/5a/08/f35a08c5d279cd84fe02fa813b9aca75.jpg"
+    },
+    {
+        "id": 11,
+        "from": "South Korea",
+        "brand": "Hyundai",
+        "matter": "Affordable vehicles with modern designs and advanced features.",
+        "image": "https://i.pinimg.com/564x/91/c8/83/91c883a62196ad2be9fc616531143c77.jpg"
+    },
+    {
+        "id": 12,
+        "from": "South Korea",
+        "brand": "Kia",
+        "matter": "Value-driven vehicles with impressive warranties and features.",
+        "image": "https://i.pinimg.com/564x/1b/c1/e8/1bc1e8bfc8160a9ca29280a80d0cc92c.jpg"
+    },
+    {
+        "id": 13,
+        "from": "Japan",
+        "brand": "Lexus",
+        "matter": "Luxury vehicles with a reputation for reliability and comfort.",
+        "image": "https://i.pinimg.com/564x/bd/17/38/bd17384c337e943cab4ab2cb3ce176dd.jpg"
+    },
+    {
+        "id": 14,
+        "from": "Japan",
+        "brand": "Mazda",
+        "matter": "Fun-to-drive vehicles with stylish designs and advanced technology.",
+        "image": "https://i.pinimg.com/564x/46/6a/5c/466a5c6f476c4163a59236b8288bc15f.jpg"
+    },
+    {
+        "id": 15,
+        "from": "Japan",
+        "brand": "Subaru",
+        "matter": "All-wheel-drive vehicles known for their safety and reliability.",
+        "image": "https://i.pinimg.com/564x/b9/81/b0/b981b0180164b14db308c4b931848a4e.jpg"
+    },
+    {
+        "id": 16,
+        "from": "Sweden",
+        "brand": "Volvo",
+        "matter": "Swedish automaker focusing on safety and innovative design.",
+        "image": "https://i.pinimg.com/564x/4a/72/a8/4a72a8579bf2b7c5c450fee0e36027f0.jpg"
+    },
+    {
+        "id": 17,
+        "from": "UK",
+        "brand": "Jaguar",
+        "matter": "British luxury vehicles known for performance and style.",
+        "image": "https://i.pinimg.com/564x/81/6b/4a/816b4abd32aedaf00d216a2acd54022d.jpg"
+    },
+    {
+        "id": 18,
+        "from": "UK",
+        "brand": "Land Rover",
+        "matter": "Premium SUVs with a reputation for off-road capability.",
+        "image": "https://i.pinimg.com/564x/40/63/d3/4063d387400489c7ff6ab0a9b6c5f1fb.jpg"
+    },
+    {
+        "id": 19,
+        "from": "Germany",
+        "brand": "Porsche",
+        "matter": "High-performance sports cars with iconic designs.",
+        "image": "https://1000logos.net/wp-content/uploads/2018/02/Porsche-Logo.png"
+    },
+    {
+        "id": 20,
+        "from": "Italy",
+        "brand": "Ferrari",
+        "matter": "Italian luxury sports cars known for speed and performance.",
+        "image": "https://i.pinimg.com/736x/be/4c/ad/be4cad262e0b895d08280411b407aceb.jpg"
+    },
+    {
+        "id": 21,
+        "from": "Italy",
+        "brand": "Lamborghini",
+        "matter": "Exotic sports cars with aggressive designs and high performance.",
+        "image": "https://i.pinimg.com/564x/0c/d2/ed/0cd2ed43dc909a91ffd84ac53fb432b0.jpg"
+    },
+    {
+        "id": 22,
+        "from": "UK",
+        "brand": "Bentley",
+        "matter": "British luxury cars combining elegance and performance.",
+        "image": "https://i.pinimg.com/564x/11/98/a6/1198a61c8fd515cc0912b3d56fea76ef.jpg"
+    },
+    {
+        "id": 23,
+        "from": "UK",
+        "brand": "Rolls-Royce",
+        "matter": "Ultimate luxury vehicles with bespoke craftsmanship.",
+        "image": "https://i.pinimg.com/736x/47/d2/14/47d2145572ec70eb370c0938f36bb0b2.jpg"
+    },
+    {
+        "id": 24,
+        "from": "Italy",
+        "brand": "Maserati",
+        "matter": "Italian luxury cars with distinctive style and performance.",
+        "image": "https://1000logos.net/wp-content/uploads/2018/04/Maserati-logo.jpg"
+    },
+    {
+        "id": 25,
+        "from": "UK",
+        "brand": "Aston Martin",
+        "matter": "Luxury sports cars blending performance with British craftsmanship.",
+        "image": "https://i.pinimg.com/564x/41/ed/72/41ed72c69ebe9e479830d55ea86e87dc.jpg"
+    },
+    {
+        "id": 26,
+        "from": "Italy",
+        "brand": "Alfa Romeo",
+        "matter": "Italian brand known for stylish and sporty vehicles.",
+        "image": "https://1000logos.net/wp-content/uploads/2018/09/Alfa-logo-640x360.jpg"
+    },
+    {
+        "id": 27,
+        "from": "South Korea",
+        "brand": "Genesis",
+        "matter": "Luxury vehicles from Hyundai offering premium features and design.",
+        "image": "https://i.pinimg.com/564x/17/fb/ff/17fbff316cca9b0d14b08a5c28e1d695.jpg"
+    },
+    {
+        "id": 28,
+        "from": "France",
+        "brand": "Peugeot",
+        "matter": "French automaker known for stylish and practical cars.",
+        "image": "https://1000logos.net/wp-content/uploads/2021/02/Peugeot-logo.png"
+    },
+    {
+        "id": 29,
+        "from": "France",
+        "brand": "Renault",
+        "matter": "French brand offering a range of affordable and efficient cars.",
+        "image": "https://i.pinimg.com/564x/a8/9f/5b/a89f5b9427c5ea6940d882e6c72a4c13.jpg"
+    },
+    {
+        "id": 30,
+        "from": "France",
+        "brand": "Citroën",
+        "matter": "Innovative French cars known for their comfort and unique design.",
+        "image": "https://i.pinimg.com/564x/59/1a/d3/591ad3f139557ecb6d4bea8b4f99cee4.jpg"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Hatchback",
+        "fuel": "Petrol",
+        "description": "A hatchback is a car body configuration with a rear door that swings upward to provide access to the main interior of the car as a cargo area rather than just to a separated trunk.",
+        "pic": "https://img.freepik.com/free-vector/blue-hatchback-car-isolated-white-vector_53876-67353.jpg?t=st=1720544542~exp=1720548142~hmac=38cc10ad55153f2cf87d766abcba090f525443921d5c1697ced8409140faa6a8&w=826"
+    },
+    {
+        "id": 2,
+        "name": "Sedan",
+        "fuel": "Petrol",
+        "description": "A sedan is a typical example of a four-door passenger car.",
+        "pic": "https://img.freepik.com/free-vector/green-sedan-car-green-background-vector_53876-67345.jpg?t=st=1720544921~exp=1720548521~hmac=53abb17271be9992d2ae689e7c5160afd68e0864921bab84dea647fd4a21e752&w=826"    
+    },
+    {
+        "id": 3,
+        "name": "SUV",
+        "fuel": "Petrol",
+        "description": "SUVs are built with the combination of passenger cars with features of off-road vehicles.",
+        "pic": "https://img.freepik.com/free-vector/black-mpv-minivan-automobile-vector_53876-64371.jpg?t=st=1720543967~exp=1720547567~hmac=015d85b44a3ecb2449d3423a88a6dd2ea628c380ba59b22ad7ddfb1837723f3d&w=826"    
+    },
+    {
+        "id": 4,
+        "name": "Convertible",
+        "fuel": "Petrol",
+        "description": "Convertible is popularly referred to as an 'Open-Top' car.",
+        "pic": "https://img.freepik.com/free-vector/blue-convertible-car-isolated-white-vector_53876-67355.jpg?t=st=1720545023~exp=1720548623~hmac=2c5402c4545dcdb0524b68e3b3fe6981169766a9e1fc11bc8867b1bba00a8008&w=826"
+    },
+    {
+        "id": 5,
+        "name": "Coupe",
+        "fuel": "Petrol",
+        "description": "A coupe is a two-door car with a sloping roofline, giving it a sporty stance.",
+        "pic": "https://img.freepik.com/free-vector/vintage-red-car_1053-312.jpg?t=st=1720545061~exp=1720548661~hmac=bb56aebe4a596ba17854bde536e45be7970106ab68cf65d89b6164eec0b0fd25&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Wagon",
+        "fuel": "Petrol",
+        "description": "One of the most common types of cars in India is the Wagon. These cars are a good combination of a hatchback and a sedan.",
+        "pic": "https://img.freepik.com/free-vector/vehicle_53876-34796.jpg?t=st=1720545220~exp=1720548820~hmac=ef84635c4a22fe915cc9ade2b14f51e1a73f29e15806e0e6912628addcd7aaf9&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Minivan",
+        "fuel": "Petrol",
+        "description": "When designing minivans, the focus is usually on the size of the cabin space rather than the size of the storage space.",
+        "pic": "https://img.freepik.com/free-photo/isolated-white-van-white-surface_125540-2397.jpg?t=st=1720847819~exp=1720851419~hmac=4f6131f7b4f286c5110419357dd6ccd578b7f6bd7cdf2ab3b9e60e2caee242aa&w=996"
+    },
+    {
+        "id": 8,
+        "name": "Crossover",
+        "fuel": "Petrol",
+        "description": "Crossovers are cars with body types that are a mix of the above-mentioned vehicle types.",
+        "pic": "https://img.freepik.com/free-psd/modern-car-isolated_23-2151504468.jpg?t=st=1720847915~exp=1720851515~hmac=6efc5999b5a96994c5ddc6189b31d91e04d16e6e5b1d15549e4f8852c6cc6f74&w=740"
+    },
+    {
+        "id": 9,
+        "name": "PICKUP TRUCK",
+        "fuel": "Petrol",
+        "description": "A pickup is one of the most recognizable types of cars in the world.",
+        "pic":"https://img.freepik.com/premium-photo/blue-pickup-car-white-background-3d-rendering_101266-9327.jpg?w=1060"
+    },
+    {
+        "id": 10,
+        "name": "4x4",
+        "fuel": "Petrol",
+        "description": "Pick-ups come in two or four-wheel drive. The 4x4. 4x4. This four-wheel drive vehicle can be either a pick-up truck or an SUV.",
+        "pic":"https://img.freepik.com/premium-vector/off-road-adventure-vehicle_6138-147.jpg?w=740"
+    },
+    {
+        "id": 11,
+        "name": "SPORTS CAR",
+        "fuel": "Petrol",
+        "description": " A sports car is a car designed with an emphasis on dynamic performance, such as handling, acceleration, top speed, or the thrill of driving",
+        "pic":"https://img.freepik.com/premium-photo/conceptual-sports-cabriolet-driving-d-rendering_101266-3152.jpg?w=996"
+    },
+    {
+        "id": 12,
+        "name": "Microcar",
+        "fuel": "Petrol",
+        "description": "Microcar is a term often used for the smallest size of cars, with three or four wheels and often an engine smaller than 700 cc.",
+        "pic":"https://img.freepik.com/premium-photo/miniature-3d-car_1004243-585.jpg?w=740"
+    },
+    {
+        "id": 13,
+        "name": "Limousine",
+        "fuel": "Petrol",
+        "description": "A limousine, or limo for short, is a large, chauffeur-driven luxury vehicle with a partition between the driver compartment and the passenger compartment which can be operated mechanically by hand or by a button electronically.",
+        "pic":"https://img.freepik.com/premium-vector/limousine-vector-white-background_889056-108877.jpg?w=1060"
+    },
+    {
+        "id": 14,
+        "name": "Electric vehicle",
+        "fuel": "Petrol",
+        "description": "An electric vehicle is a vehicle that uses one or more electric motors for propulsion. ",
+        "pic":"https://img.freepik.com/free-photo/electric-car-charging-station-isolated-white-background_123827-29018.jpg?t=st=1720848613~exp=1720852213~hmac=331f87febdbe167669b0e9aa45ece24e6aa4250d256debc712a3c077fc02b808&w=996"
+    },
+    {
+        "id": 15,
+        "name": "MUV",
+        "fuel": "Petrol",
+        "description": "MUV stands for multi-utility vehicle. As the name implies, these cars are intended for different usage.",
+        "pic":"https://img.freepik.com/free-vector/brown-mpv-minivan-automobile-vector_53876-64380.jpg?t=st=1720848960~exp=1720852560~hmac=17416283fcc656c10bdc2d02f7c298cbbbfad4113bc1d5a8a88ebff9b606137f&w=826"
+    }
+]
